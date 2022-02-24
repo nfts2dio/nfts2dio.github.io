@@ -9,7 +9,7 @@ Play crafted in a way that you can use with almost all sort of web project. This
 ### [🚀 Visit our webpage](https://www.nfts2dio.com/)
 
 
-[![play-tailwind](https://www.nfts2dio.com/assets/images/hero/hero-image.png)](https://play-tailwind.tailgrids.com/)
+[![play-tailwind](https://www.nfts2dio.com/assets/images/hero/hero-image.png)](https://www.nfts2dio.com/#testimonials)
 
 
 
