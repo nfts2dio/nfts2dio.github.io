@@ -6,11 +6,10 @@ Play crafted in a way that you can use with almost all sort of web project. This
 ### This template crafted using 🥞 [TailGrids](https://tailgrids.com/) UI components
 
 
-### [🚀 View Demo](https://play-tailwind.tailgrids.com/)
+### [🚀 Visit our webpage](https://www.nfts2dio.com/)
 
-### [⬇️ Download Now](https://links.tailgrids.com/play-download)
 
-[![play-tailwind](https://cdn.tailgrids.com/play-tailwind.jpg)](https://play-tailwind.tailgrids.com/)
+[![play-tailwind](https://www.nfts2dio.com/assets/images/hero/hero-image.png)](https://play-tailwind.tailgrids.com/)
 
 
 
